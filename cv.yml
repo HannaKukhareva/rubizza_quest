@@ -1,10 +1,13 @@
-goal: "Happiness, self development"
-programming_languages: "Ruby, JS"
-have_a_job: "no"
-laptop: "yes. Linux."
-english: "B1"
-education: "2016, Gomel Trade and Economic College, Faculty of Information Technology Software, Speciality: Computer Graphics, Level: Technician programmer"
-phone_number: "375255378419"
-hours_per_day: "6"
+age: 23
+education: |
+    Graduation year: 2016
+    Name of institution: Gomel Trade and Economic College
+    Speciality: Faculty of Information Technology
+english: "low intermediate level of English (B1)"
 full_name: "Hanna Kukhareva"
-age: "23"
+goal: "Happiness, self development. there may be an error in what I write here is too little text, and then pesestanet write invalid key."
+have_a_job: "No"
+hours_per_day: 8
+laptop: "yes, Linux"
+phone_number: 375255378419
+programming_languages: "ruby, js"
