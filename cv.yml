@@ -1,13 +1,13 @@
-age: 23
-education: |
-    Graduation year: 2016
-    Name of institution: Gomel Trade and Economic College
-    Speciality: Faculty of Information Technology
-english: "low intermediate level of English (B1)"
-full_name: "Hanna Kukhareva"
-goal: "Happiness, self development. there may be an error in what I write here is too little text, and then pesestanet write invalid key."
-have_a_job: "No"
-hours_per_day: 8
-laptop: "yes, Linux"
-phone_number: 375255378419
-programming_languages: "ruby, js"
+---
+contact:
+  email: anna.kuhkhareva95@gmail.com
+education:
+  program: "Faculty of Information Technology"
+  university: Gomel Trade and Economic College. 2016
+languages: "English, Ruby, JS"
+name:
+  first: Hanna
+  last: Kukhareva
+phone: 375255378419
+social:
+  github: HannaKukhareva
