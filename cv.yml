@@ -1,6 +1,6 @@
 full_name: "Hanna Kukhareva"
 
-age: 23,
+age: 23
 
 phone_number: +375255378419
 email: "anna.kuhkhareva95@gmail.com"
@@ -9,22 +9,22 @@ social:
     vk: "241747890"
     github: "HannaKukhareva"
 
-
-github:
-    name: "HannaKukhareva"
-    url: "https://github.com/HannaKukhareva"
+programming_languages:
+  - Ruby(learning)
+  - Javascript
 
 education:
-    title: Gomel Trade and Economic College
-    when: 2013-2016
+  - Gomel Trade and Economic College
+  - information technology software
+  - 2013-2016
 
 goal: i want to learn Ruby and be happy
 
-programming_languages:  Ruby, JS
-
-have_a_job: 'No'
+have_a_job: no, I don't have a job
 
 laptop: yes
+  - Linux
+  - Windows
 
 english: Pre-intermediate
 
