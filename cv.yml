@@ -1,13 +1,31 @@
----
-contact:
-  email: anna.kuhkhareva95@gmail.com
-education:
-  program: "Faculty of Information Technology"
-  university: Gomel Trade and Economic College. 2016
-languages: "English, Ruby, JS"
-name:
-  first: Hanna
-  last: Kukhareva
-phone: 375255378419
+full_name: "Hanna Kukhareva"
+
+age: 23,
+
+
+phone_number: (375)255378419
+email: "anna.kuhkhareva95@gmail.com"
+
 social:
-  github: HannaKukhareva
+    vk: "241747890"
+
+github:
+    name: "HannaKukhareva"
+    url: "https://github.com/HannaKukhareva"
+
+education:
+    title: Gomel Trade and Economic College
+    when: 2013-2016
+
+goal: i want to learn Ruby and be happy
+
+programming_languages:  Ruby, JS
+
+have_a_job: 'No'
+
+
+laptop: yes
+
+english: Pre-intermediate
+
+hours_per_day: 8
